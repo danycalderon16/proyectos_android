@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EvaU5_26</string>
+    <string name="usuario">ID Usuario</string>
+    <string name="nombreU">Nombre Usuario</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="pass">Contraseña</string>
+    <string name="idPais">ID País</string>
+    <string name="enviar">Enviar</string>
+</resources>

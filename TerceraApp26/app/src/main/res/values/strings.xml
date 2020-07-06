@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TecNm-Campus Tepic-Tap 26</string>
+    <string name="textoNombre">Nombre Completo</string>
+    <string name="nombreImagen">TecNm-Campus Tepic</string>
+    <string name="noControl">Número de Control</string>
+    <string name="enviar">Enviar</string>
+</resources>
